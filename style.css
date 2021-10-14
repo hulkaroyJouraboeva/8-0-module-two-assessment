@@ -1,5 +1,7 @@
 body {
     background-color: lavender;
+    font-family: monospace;
+    text-align: center;
 }
 
 header {
@@ -12,10 +14,5 @@ header {
 h1,
 label {
     color: palevioletred;
-    text-align: center;
-    font-family: monospace;
-}
-
-main {
     text-align: center;
 }
