@@ -1,0 +1,21 @@
+body {
+    background-color: lavender;
+}
+
+header {
+    border: 2px solid yellow;
+    text-align: center;
+    background-color: skyblue;
+    margin: 50px 300px;
+}
+
+h1,
+label {
+    color: palevioletred;
+    text-align: center;
+    font-family: monospace;
+}
+
+main {
+    text-align: center;
+}
